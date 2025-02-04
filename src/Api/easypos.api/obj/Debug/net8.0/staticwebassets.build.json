@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Wkyf62LcBnyi7RXJr+/+PKRt8CLGiQ6gr5FH6/LniL8=",
+  "Source": "easypos.api",
+  "BasePath": "_content/easypos.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

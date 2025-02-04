@@ -1,0 +1,17 @@
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\bin\Debug\net8.0\easypos.infraestructure.deps.json
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\bin\Debug\net8.0\easypos.infraestructure.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\bin\Debug\net8.0\easypos.infraestructure.pdb
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\bin\Debug\net8.0\easypos.application.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\bin\Debug\net8.0\easypos.domain.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\bin\Debug\net8.0\easypos.application.pdb
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\bin\Debug\net8.0\easypos.domain.pdb
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos.infraestructure.csproj.AssemblyReference.cache
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos.infraestructure.AssemblyInfoInputs.cache
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos.infraestructure.AssemblyInfo.cs
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos..80F31BDF.Up2Date
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos.infraestructure.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\refint\easypos.infraestructure.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\easypos.infraestructure.pdb
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Infraestructure\easypos.infraestructure\obj\Debug\net8.0\ref\easypos.infraestructure.dll

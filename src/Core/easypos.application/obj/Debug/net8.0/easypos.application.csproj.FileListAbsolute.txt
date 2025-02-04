@@ -1,0 +1,15 @@
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\bin\Debug\net8.0\easypos.application.deps.json
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\bin\Debug\net8.0\easypos.application.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\bin\Debug\net8.0\easypos.application.pdb
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\bin\Debug\net8.0\easypos.domain.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\bin\Debug\net8.0\easypos.domain.pdb
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos.application.csproj.AssemblyReference.cache
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos.application.AssemblyInfoInputs.cache
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos.application.AssemblyInfo.cs
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos.application.csproj.CoreCompileInputs.cache
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos..5D03C1BB.Up2Date
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos.application.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\refint\easypos.application.dll
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\easypos.application.pdb
+C:\Users\Giovany\Documents\LEARNING\youtube\_net\DDD\src\Core\easypos.application\obj\Debug\net8.0\ref\easypos.application.dll

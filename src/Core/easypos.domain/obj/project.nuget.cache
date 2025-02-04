@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7m5MQwEcKw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giovany\\Documents\\LEARNING\\youtube\\_net\\DDD\\src\\Core\\easypos.domain\\easypos.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovany\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Giovany\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Giovany\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Giovany\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
