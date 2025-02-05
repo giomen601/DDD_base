@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("easypos.infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b833880b37ecf70e32bcfa493a14b5343b955481")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90994f0032be0d7be5d7b64974bbfc2346eaceb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("easypos.infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("easypos.infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
